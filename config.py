@@ -17,7 +17,7 @@ class Tag:
 class Parameters:
     QUEUE_SIZE = 0
     MAX_WORKERS = 4
-    TOPIC = 'raw_message'
+    TOPIC = 'rawdata'
 
 class ErrorMessage:
     FILE_NOT_FOUND = 'file_not_found in given path'

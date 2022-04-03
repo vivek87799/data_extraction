@@ -4,4 +4,4 @@ class KafkaConfig:
     KAFKA_BOOTSTRAP_PORT = 9092
     KAKFA_VERSION = (2,7,0)
     TIMEOUT = 60
-    TOPIC = 'raw_message'
+    TOPIC = 'rawdata'
